@@ -2,7 +2,7 @@
  Input = 2,4,6,8
  Output = 5'''
 
-my_input = input("input numbers separated by comas")
+    my_input = input("input numbers separated by comas")
 my_list = my_input.split(",")
 sum = 0
 
